@@ -51,11 +51,11 @@ Modifique el programa del punto anterior para que la información del diccionari
 
 Modifique el módulo de Python del punto anterior para que se puedan registrar múltiples usuarios en el archivo de texto. En el caso de que el usuario ya exista en el archivo de texto, la función debe retornar una cadena indicando el error, en caso contrario deberá retornar una cadena indicando el registro exitoso.
 
-## Reto 3: Inicio de sesión del usuario
+## Reto 4: Inicio de sesión del usuario
 
 Para este reto deberá añadir al módulo de Python una función para permitir el inicio de sesión de un usuario registrado. Esta función debe verificar que el usuario existe y que ha proporcionado una contraseña correcta, en ese caso deberá incluirse un nuevo campo en el diccionario para indicar que la sesión está activa. En el nuevo campo puede almacenar el valor que desee, teniendo en cuenta que para la segunda entrega del proyecto en ese campo se almacenará la dirección IP del usuario.
 
-## Reto 4: Gestión de consultas médicas
+## Reto 5: Gestión de consultas médicas
 
 Para este reto incorporará elementos de los retos anteriores con el fin de crear un módulo de Python para la gestión de consultas médicas. El módulo debe incluir al menos una función que permita:
 
