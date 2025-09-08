@@ -47,7 +47,7 @@ Para este reto se debe codificar un programa que permita representar la informac
 
 Modifique el programa del punto anterior para que la información del diccionario sea escrita en un archivo de texto. Para esto haga uso de la función `dumps` del módulo de Pythoon `json` (`from json import dumps`). El programa debe contar con al menos una función y no debe generar errores durante la creación del archivo mediante un uso apropiado de las excepciones, la función o funciones deben ser añadidas a un nuevo módulo de Python.
 
-## Reto 2: Registro de multiples usuarios
+## Reto 3: Registro de multiples usuarios
 
 Modifique el módulo de Python del punto anterior para que se puedan registrar múltiples usuarios en el archivo de texto. En el caso de que el usuario ya exista en el archivo de texto, la función debe retornar una cadena indicando el error, en caso contrario deberá retornar una cadena indicando el registro exitoso.
 
