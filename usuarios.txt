@@ -1,0 +1,14 @@
+[
+    {
+        "cedula": "2345",
+        "nombre": "FELIPE",
+        "apellidos": "GONZALEZ",
+        "contraseña": "2345"
+    },
+    {
+        "cedula": "JUAN",
+        "nombre": "ROLANDO",
+        "apellidos": "GARCIA",
+        "contraseña": "2345"
+    }
+]
